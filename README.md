@@ -53,6 +53,8 @@ echo '"Evidemment !"'
 mkdir : mkdir 
 
 9. 	Payload : C’est les données utiles dans une trame Ethernet.
-       CIDR remplace les classes IP pour mieux gérer les adresses et éviter le gaspillage.
+
+10. CIDR remplace les classes IP pour mieux gérer les adresses et éviter le gaspillage.
+11. 
 
 
